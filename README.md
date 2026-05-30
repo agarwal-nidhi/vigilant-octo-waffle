@@ -13,15 +13,16 @@ Python Libraries Used:
 
 Here, we used python libraries built for Data analysis & visualization such as Pandas, Seaborn, Matplotlib etc.
 
-To install Pandas, run command: pip install pandas
-To install Seaborn, run command: pip install seaborn
-To install Matplotlib, run command: pip install matplotlib
+1. To install Pandas, run command: pip install pandas
+2. To install Seaborn, run command: pip install seaborn
+3. To install Matplotlib, run command: pip install matplotlib
 
 -------------------------------------------------------------------------------------------------
 
 Source data:
 
 Source file used here is Zomato-data.csv, which contains information like restaurant names, types, ratings, votes, online order availability etc..
+
 Source file is downloaded from this link, https://www.geeksforgeeks.org/data-analysis/zomato-data-analysis-using-python/
 
 -----------------------------------------------------------------------------------------------------------------
